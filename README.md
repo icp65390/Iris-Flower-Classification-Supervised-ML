@@ -2,9 +2,9 @@
 
 #  Iris Flower Classification using Supervised Machine Learning
 
- **Author:** Ishwor Chandra Paudyal  
+ **Author:** Ishwor Chandra Paudyal (ICP)
  **Email:** ishwor.paudyal12@gmail.com  
- **GitHub:** https://github.com/icp65390  
+  
   
 
 ---
