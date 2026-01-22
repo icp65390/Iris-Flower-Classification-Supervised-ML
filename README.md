@@ -1,9 +1,10 @@
 # Iris-Flower-Classification-Supervised-ML
 
 #  Iris Flower Classification using Supervised Machine Learning
-
- **Author:** Ishwor Chandra Paudyal (ICP)
- **Email:** ishwor.paudyal12@gmail.com  
+ **Author:** Ishwor Chandra Paudyal(ICP)  
+**Email:** ishwor.paudyal12@gmail.com  
+  
+ 
   
   
 
